@@ -5,7 +5,7 @@ Developed on Sequoia 15.2
 
 Created with the help of chatGPT 4o mini
 
-Preliminary version
+Preliminary version 0.1
 
 ## background
 https://towardsdatascience.com/bag-of-visual-words-in-a-nutshell-9ceea97ce0fb
@@ -22,13 +22,13 @@ https://blog.pubpeer.com/
 
 
 ## requirements
-Neeeds python 3.8 eg **conda activate base38**
+Neeeds python 3.8 eg * *conda activate base38* *
 
-pip install **os sys cv2 sqlite3 numpy fitz sklearn tqdm faiss pytesseract datetime**
+pip install * *os sys cv2 sqlite3 numpy fitz sklearn tqdm faiss pytesseract datetime* *
 
-Needs tesseract **brew install tesseract***
+Needs tesseract * *brew install tesseract** *
 
-Terminal **python imagedup.py <path_to_directory> <path_to_database>**
+Terminal * *python imagedup.py <path_to_directory> <path_to_database>* *
 
 ## pipeline
 Utility Functions:
