@@ -3,6 +3,9 @@ Finds duplicated image regions in scientific papers
 
 Developed on Sequoia 15.2
 
+
+##requisites
+
 Neeeds python 3.8 **conda activate base38**
 
 pip install os sys cv2 sqlite3 numpy fitz sklearn tqdm faiss pytesseract datetime
