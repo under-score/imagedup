@@ -3,20 +3,18 @@ Finds duplicated image regions in scientific papers
 
 Developed on Sequoia 15.2
 
+Created with the help of chatGPT 4o mini
+
+Version v0.001
 
 ## requisites
-
-Neeeds python 3.8 **conda activate base38**
+Neeeds python 3.8 eg **conda activate base38**
 
 pip install os sys cv2 sqlite3 numpy fitz sklearn tqdm faiss pytesseract datetime
 
 Terminal **python imagedup.py <path_to_directory> <path_to_database>**
 
-Created with the help of chatGPT 4o mini
-
-
 ## pipeline
-
 Utility Functions:
 log, create_bovw_database, save_bovw_to_database.
 
@@ -42,3 +40,7 @@ find_duplicates_with_lsh.
 
 Main Pipeline:
 process_directory_of_pdfs.
+
+
+## results
+
