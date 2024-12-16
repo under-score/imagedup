@@ -10,7 +10,9 @@ Version v0.001
 ## requisites
 Neeeds python 3.8 eg **conda activate base38**
 
-pip install os sys cv2 sqlite3 numpy fitz sklearn tqdm faiss pytesseract datetime
+pip install **os sys cv2 sqlite3 numpy fitz sklearn tqdm faiss pytesseract datetime**
+
+Needs tesseract **brew install tesseract***
 
 Terminal **python imagedup.py <path_to_directory> <path_to_database>**
 
@@ -44,3 +46,6 @@ process_directory_of_pdfs.
 
 ## results
 
+./bovw
+
+<path_to_directory>/images
