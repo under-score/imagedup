@@ -12,7 +12,7 @@ Terminal **python imagedup.py <path_to_directory> <path_to_database>**
 Created with the help of chatGPT 4o mini
 
 
-# pipeline
+## pipeline
 
 Utility Functions:
 log, create_bovw_database, save_bovw_to_database.
