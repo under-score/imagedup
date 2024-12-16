@@ -4,7 +4,7 @@ Finds duplicated image regions in scientific papers
 Developed on Sequoia 15.2
 
 
-##requisites
+## requisites
 
 Neeeds python 3.8 **conda activate base38**
 
