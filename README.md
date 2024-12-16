@@ -1,11 +1,11 @@
 # imagedup
-Finds duplicated image regions in scientific papers
+A proof of principle python scrip to find duplicated image regions in scientific papers
 
 Developed on Sequoia 15.2
 
 Created with the help of chatGPT 4o mini
 
-Preliminary version 0.1
+Preliminary version - still a lot of bugs
 
 ## background
 https://towardsdatascience.com/bag-of-visual-words-in-a-nutshell-9ceea97ce0fb
