@@ -8,13 +8,16 @@ Created with the help of chatGPT 4o mini
 Preliminary version
 
 ## background
-
-
 https://towardsdatascience.com/bag-of-visual-words-in-a-nutshell-9ceea97ce0fb
+
 https://www.nature.com/articles/d41586-021-03807-6
+
 https://www.wjst.de/blog/sciencesurf/2021/09/a-comparison-of-image-duplication-software/
+
 https://www.atsjournals.org/doi/10.1165/rcmb.2020-0419LE
+
 https://retractionwatch.com/
+
 https://blog.pubpeer.com/
 
 
