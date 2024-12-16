@@ -22,13 +22,13 @@ https://blog.pubpeer.com/
 
 
 ## requirements
-Neeeds python 3.8 eg * *conda activate base38* *
+Neeeds python 3.8 eg *conda activate base38*
 
-pip install * *os sys cv2 sqlite3 numpy fitz sklearn tqdm faiss pytesseract datetime* *
+pip install *os sys cv2 sqlite3 numpy fitz sklearn tqdm faiss pytesseract datetime*
 
-Needs tesseract * *brew install tesseract** *
+Needs tesseract *brew install tesseract*
 
-Terminal * *python imagedup.py <path_to_directory> <path_to_database>* *
+Terminal *python imagedup.py <path_to_directory> <path_to_database>*
 
 ## pipeline
 Utility Functions:
@@ -53,8 +53,8 @@ Main Pipeline:
 process_directory_of_pdfs.
 
 ## results
-./bovw
+*./bovw*
 
-<path_to_directory>/images
+*<path_to_directory>/images*
 
-<path_to_directory>/images_duplicated
+*<path_to_directory>/images_duplicated*
