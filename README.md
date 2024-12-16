@@ -20,7 +20,6 @@ https://retractionwatch.com/
 
 https://blog.pubpeer.com/
 
-
 ## requirements
 Neeeds python 3.8 eg *conda activate base38*
 
@@ -51,6 +50,11 @@ find_duplicates_with_lsh.
 
 Main Pipeline:
 process_directory_of_pdfs.
+
+## benchmarks
+10 min for 500 PDFs
+
+TBC
 
 ## results
 *./bovw*
