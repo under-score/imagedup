@@ -52,12 +52,12 @@ Main Pipeline:
 process_directory_of_pdfs.
 
 ## benchmarks
-10 min for 500 PDFs
-
+10 min for 500 PDFs. 
+1,000,000 keypoint, 1,000 words.
 TBC
 
 ## results
-*./bovw*
+*./bovw.sqlite*
 
 *<path_to_directory>/images*
 
